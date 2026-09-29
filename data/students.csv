@@ -1,0 +1,16 @@
+student_id,age,score,engagement,practice_score,time_spent,learning_style,learning_pace,learning_level
+S001,20,35,40,30,20,Visual,Slow,Beginner
+S002,21,45,50,42,30,Reading,Medium,Beginner
+S003,20,52,58,50,35,Practice,Medium,Intermediate
+S004,22,60,65,58,40,Visual,Medium,Intermediate
+S005,21,68,70,65,45,Reading,Fast,Intermediate
+S006,22,75,78,72,50,Practice,Fast,Advanced
+S007,20,82,85,80,60,Visual,Fast,Advanced
+S008,21,90,92,88,70,Reading,Fast,Advanced
+S009,20,40,45,38,25,Practice,Slow,Beginner
+S010,22,57,62,55,38,Visual,Medium,Intermediate
+S011,21,73,76,70,48,Reading,Fast,Advanced
+S012,20,48,52,45,32,Practice,Slow,Beginner
+S013,22,64,68,60,42,Visual,Medium,Intermediate
+S014,21,87,89,85,65,Reading,Fast,Advanced
+S015,20,38,42,35,22,Practice,Slow,Beginner

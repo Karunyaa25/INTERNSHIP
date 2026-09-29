@@ -1,0 +1,11 @@
+module_id,title,category,difficulty,prerequisite,duration_hours,content_type,learning_style
+M01,Python Basics,Programming,1,None,4,Video,Visual
+M02,Python Functions,Programming,2,M01,3,Practice,Practice
+M03,Python OOP,Programming,3,M02,4,Article,Reading
+M04,SQL Basics,Database,1,None,3,Video,Visual
+M05,Machine Learning Basics,AI/ML,2,M01,5,Video,Visual
+M06,Machine Learning Algorithms,AI/ML,3,M05,5,Practice,Practice
+M07,Deep Learning Basics,AI/ML,4,M06,6,Article,Reading
+M08,Generative AI Basics,GenAI,4,M06,5,Video,Visual
+M09,NLP Basics,AI/ML,3,M05,4,Article,Reading
+M10,RAG and Vector Databases,GenAI,5,M08,6,Practice,Practice
